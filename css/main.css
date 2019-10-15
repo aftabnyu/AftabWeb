@@ -535,3 +535,11 @@ ul li {
 	font-weight: 400;
 	margin-top: 7%;
 }
+.h_iframe iframe {
+    width:90%;
+    height:90%;
+}
+.h_iframe {
+    height: 90%;
+    width:90%;
+}
