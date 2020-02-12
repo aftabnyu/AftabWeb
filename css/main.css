@@ -4,7 +4,7 @@
 	 Typography
 -------------------------------------------------------------------------------*/
 p {
-	font-size: 17px;
+	font-size: 18px;
 	line-height: 22.4px;
 	color: #6c7279;
 }
@@ -24,10 +24,10 @@ h3 {
 h4 {
 	font-size: 22px;
 	color: #2d3033;
-	font-weight: 400;
+	font-weight: bold;
 }
 h5 {
-	font-size: 14px;
+	font-size: 18px;
 	color: #2d3033;
 	text-transform: uppercase;
 	font-weight: 700;
